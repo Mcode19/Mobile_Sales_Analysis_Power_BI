@@ -140,5 +140,5 @@ Shows geographic performance across major Indian cities such as Delhi, Mumbai, B
 <p>Add your screenshot like this:</p>
 
 <pre>
-&lt;img src="https://github.com/your-username/your-repo-name/assets/dashboard.png" alt="Dashboard Preview" width="900"&gt;
+ https://github.com/Mcode19/Mobile_Sales_Analysis_Power_BI/blob/main/Snapshot%20of%20Mobile%20sales%20dashboard.png
 </pre>
