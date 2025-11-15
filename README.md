@@ -134,9 +134,8 @@ Shows geographic performance across major Indian cities such as Delhi, Mumbai, B
   <li>✔ Optimizing POS based on payment method usage</li>
   <li>✔ Planning promotions using monthly trend analysis</li>
 </ul>
-
-<!-- 6. Screenshots -->
-
-<pre>
-  https://github.com/Mcode19/Mobile_Sales_Analysis_Power_BI/blob/main/Snapshot%20of%20Mobile%20sales%20dashboard.png
-</pre>
+ 
+ <!-- 6. Screenshots -->
+ <h2>6.Dashboard Preview </h2>
+ ( https://github.com/Mcode19/Mobile_Sales_Analysis_Power_BI/blob/main/Snapshot%20of%20Mobile%20sales%20dashboard.png )
+ 
